@@ -95,7 +95,7 @@ print(i_start)
 count2=0
 count7=0
 count8=0
-max_num=20  # 画像は5枚ずつ作成する
+max_num=20  # 画像は20枚ずつ作成する
 
 for i in range(i_start,len(X)):  # i_startから始める
     
